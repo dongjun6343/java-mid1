@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘â øÿÿÿÿ8ĞßÉğ…2J$8670adaf-3339-416d-b0e5-8a29241c033b
+m	java:S106"+Replace this use of System.out by a logger.(Ù€³Œ8åƒºì…2J$861dee7e-17b5-4fc9-b073-557b21bb7988
+m	java:S106"+Replace this use of System.out by a logger.(Ô«êˆ8²¯½ì…2J$03b2eeaa-45fb-425f-9267-fb6678d0d220
+m	java:S106"+Replace this use of System.out by a logger.(¨Áù–8³¯½ì…2J$6080f64c-29bc-4bf4-a3a8-6f9bfdb034f9
+r	java:S106"+Replace this use of System.out by a logger.(ä‡Í³ûÿÿÿÿ8³¯½ì…2J$541548a4-f523-4aa2-aa21-22ddab9e90ca
+˜
+java:S1206%"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8³¯½ì…2J$aea564fb-2fef-40b0-9e1b-21582a896c9c
