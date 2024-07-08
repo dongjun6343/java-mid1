@@ -82,3 +82,15 @@ Y
 ,src/mid1/exception/ex0/NetWorkServiceV0.java,a/a/aa38f07e7f0f5eaeb19c68842be789ec297b6bfd
 R
 "src/mid1/exception/ex0/MainV0.java,c/a/ca8f04f2916647b15200c815284488d51607359f
+[
++src/mid1/exception/ex1/NetWorkClientV0.java,5/3/53d4ddd26b6836c9da36f901754cf0291e0faeae
+R
+"src/mid1/exception/ex1/MainV0.java,3/8/3886f410c4c75f54054a88afc901dfdbfa8634c1
+R
+"src/mid1/exception/ex1/MainV1.java,7/3/73292727c2ab71c1d79a2256a89bd29b58f6a214
+\
+,src/mid1/exception/ex1/NetWorkServiceV0.java,3/0/30a7f2ea6d05831bab6681d94930b8a10c8dc7f0
+[
++src/mid1/exception/ex1/NetWorkClientV1.java,d/3/d3a43ab4dfadc3ffa46d130f06ae732f40e4804f
+^
+.src/mid1/exception/ex1/NetWorkServiceV1_1.java,4/a/4adb1067a9536a0f5496257b5e858dbd8c657f20
