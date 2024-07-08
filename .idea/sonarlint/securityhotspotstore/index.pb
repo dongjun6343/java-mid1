@@ -64,5 +64,17 @@ P
  src/mid1/string/TestString6.java,4/6/462219dd660eaa25b55514b0c5c59bb4f97d655e
 P
  src/mid1/string/TestString7.java,a/3/a354982a69be0c2217a6a166a758771c5c4e1327
-P
- src/mid1/string/TestString8.java,c/b/cb815c4e3dcbeec386beacaae906e96221780742
+S
+#src/mid1/random/LottoGenerator.java,7/3/73c825d397a8755f322444e5d4021a50ad623d86
+W
+'src/mid1/random/LottoGeneratorMain.java,6/1/614f14d251e9318e22ed734655fe035c70654d61
+V
+&src/mid1/exception/NetWorkService.java,1/e/1e2e40f5d90ab9eaded6a4bf1e0278b7c35fe4a6
+U
+%src/mid1/exception/NetWorkClient.java,9/c/9c078befc7cd667a52475c586c93dc086eb64635
+Z
+*src/mid1/exception/ex0/NetWorkService.java,5/6/56cad6b5314f536c5b04a87fe10db8efb3a3e6af
+Y
+)src/mid1/exception/ex0/NetWorkClient.java,a/2/a21e89c68eeaf99c9439ac54bcf0c0f108db4161
+[
++src/mid1/exception/ex0/NetWorkClientV0.java,9/2/921e4f34facae407ec69e51b90cc10bed11f9b38
