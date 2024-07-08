@@ -78,3 +78,7 @@ Y
 )src/mid1/exception/ex0/NetWorkClient.java,a/2/a21e89c68eeaf99c9439ac54bcf0c0f108db4161
 [
 +src/mid1/exception/ex0/NetWorkClientV0.java,9/2/921e4f34facae407ec69e51b90cc10bed11f9b38
+\
+,src/mid1/exception/ex0/NetWorkServiceV0.java,a/a/aa38f07e7f0f5eaeb19c68842be789ec297b6bfd
+R
+"src/mid1/exception/ex0/MainV0.java,c/a/ca8f04f2916647b15200c815284488d51607359f
