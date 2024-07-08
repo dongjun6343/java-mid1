@@ -108,3 +108,13 @@ f
 6src/mid1/exception/basic/checked/CheckedCatchMain.java,f/6/f67c6ba292da3f9612941e478743ef8856c0711e
 f
 6src/mid1/exception/basic/checked/CheckedThrowMain.java,4/f/4f916785f3f9600e8b7aac4c7659d4853f93080c
+l
+<src/mid1/exception/basic/unchecked/MyUnCheckedException.java,a/1/a1cbbb69186eb65010a1f080edd7f427af4a794b
+^
+.src/mid1/exception/basic/unchecked/Client.java,9/9/996e0282d1d7679da09853626035ff1d76993303
+_
+/src/mid1/exception/basic/unchecked/Service.java,f/c/fce3eca4bfadc54ffa97594317c0771b77f839d9
+j
+:src/mid1/exception/basic/unchecked/UncheckedCatchMain.java,e/4/e47ae7349b248629944c8676266d901d97c6c616
+j
+:src/mid1/exception/basic/unchecked/UncheckedThrowMain.java,2/f/2fd04680c068666966f5ed699d7108599b623042
