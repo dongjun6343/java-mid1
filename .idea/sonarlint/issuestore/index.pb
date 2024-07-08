@@ -98,3 +98,13 @@ R
 .src/mid1/exception/ex1/NetWorkServiceV1_2.java,0/7/076944078ff89b2cef6ab82a04dbc37221187c9e
 ^
 .src/mid1/exception/ex1/NetWorkServiceV1_3.java,6/e/6e3b1b3a848676794c6cbaf44d5134efa5f3d510
+h
+8src/mid1/exception/basic/checked/MyCheckedException.java,4/b/4b6e185e5fe85232abadc2547a15a8bde6be4067
+\
+,src/mid1/exception/basic/checked/Client.java,4/6/465bd0b2f5d5201586a9c6a5e58c901ceda3916a
+]
+-src/mid1/exception/basic/checked/Service.java,0/b/0b07c5f9bbf931f01db030e84aa6aac05f8125b2
+f
+6src/mid1/exception/basic/checked/CheckedCatchMain.java,f/6/f67c6ba292da3f9612941e478743ef8856c0711e
+f
+6src/mid1/exception/basic/checked/CheckedThrowMain.java,4/f/4f916785f3f9600e8b7aac4c7659d4853f93080c
