@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 public class MainV1 {
     public static void main(String[] args) {
-        NetWorkServiceV1_1 netWorkService = new NetWorkServiceV1_1();
+        // NetWorkServiceV1_1 netWorkService = new NetWorkServiceV1_1();
+        // NetWorkServiceV1_2 netWorkService = new NetWorkServiceV1_2();
+        NetWorkServiceV1_3 netWorkService = new NetWorkServiceV1_3();
 
         Scanner scanner = new Scanner(System.in);
 

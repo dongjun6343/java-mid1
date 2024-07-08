@@ -94,3 +94,7 @@ R
 +src/mid1/exception/ex1/NetWorkClientV1.java,d/3/d3a43ab4dfadc3ffa46d130f06ae732f40e4804f
 ^
 .src/mid1/exception/ex1/NetWorkServiceV1_1.java,4/a/4adb1067a9536a0f5496257b5e858dbd8c657f20
+^
+.src/mid1/exception/ex1/NetWorkServiceV1_2.java,0/7/076944078ff89b2cef6ab82a04dbc37221187c9e
+^
+.src/mid1/exception/ex1/NetWorkServiceV1_3.java,6/e/6e3b1b3a848676794c6cbaf44d5134efa5f3d510
