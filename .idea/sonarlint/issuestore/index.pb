@@ -118,3 +118,11 @@ j
 :src/mid1/exception/basic/unchecked/UncheckedCatchMain.java,e/4/e47ae7349b248629944c8676266d901d97c6c616
 j
 :src/mid1/exception/basic/unchecked/UncheckedThrowMain.java,2/f/2fd04680c068666966f5ed699d7108599b623042
+d
+4src/mid1/exception/ex2/NetworkClientExceptionV2.java,3/4/34db3675971751c8cc90d86fe511c63573bff6ff
+[
++src/mid1/exception/ex2/NetWorkClientV2.java,b/6/b66f9365e8c021190b2f9dc3a1bf6ca9492f5447
+^
+.src/mid1/exception/ex2/NetWorkServiceV2_1.java,d/5/d5204ffe251f1b4baef2125e9e2a58198866e7ef
+R
+"src/mid1/exception/ex2/MainV2.java,a/5/a59c4437aae3e1e9b790909bb91540343ba4901a
