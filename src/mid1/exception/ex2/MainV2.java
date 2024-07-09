@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class MainV2 {
     public static void main(String[] args) throws NetworkClientExceptionV2 {
-        NetWorkServiceV2_1 netWorkService = new NetWorkServiceV2_1();
+//        NetWorkServiceV2_1 netWorkService = new NetWorkServiceV2_1();
+        NetWorkServiceV2_2 netWorkService = new NetWorkServiceV2_2();
 
         Scanner scanner = new Scanner(System.in);
 

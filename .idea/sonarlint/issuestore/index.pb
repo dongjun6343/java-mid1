@@ -126,3 +126,5 @@ d
 .src/mid1/exception/ex2/NetWorkServiceV2_1.java,d/5/d5204ffe251f1b4baef2125e9e2a58198866e7ef
 R
 "src/mid1/exception/ex2/MainV2.java,a/5/a59c4437aae3e1e9b790909bb91540343ba4901a
+^
+.src/mid1/exception/ex2/NetWorkServiceV2_2.java,4/f/4fce2e482d20b68c334e0783bb1964076b047796
