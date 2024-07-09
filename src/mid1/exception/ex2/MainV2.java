@@ -7,7 +7,9 @@ public class MainV2 {
 //        NetWorkServiceV2_1 netWorkService = new NetWorkServiceV2_1();
 //        NetWorkServiceV2_2 netWorkService = new NetWorkServiceV2_2();
 //        NetWorkServiceV2_3 netWorkService = new NetWorkServiceV2_3();
-        NetWorkServiceV2_4 netWorkService = new NetWorkServiceV2_4();
+//        NetWorkServiceV2_4 netWorkService = new NetWorkServiceV2_4();
+        NetWorkServiceV2_5 netWorkService = new NetWorkServiceV2_5();
+
         Scanner scanner = new Scanner(System.in);
 
         while (true) {

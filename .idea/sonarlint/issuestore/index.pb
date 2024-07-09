@@ -132,3 +132,5 @@ R
 .src/mid1/exception/ex2/NetWorkServiceV2_3.java,a/7/a7c012992224fa0ef5387de142d488de7a9d62c5
 ^
 .src/mid1/exception/ex2/NetWorkServiceV2_4.java,1/1/11feaffc1c2674e8df3f3312b5a0202fb633c11f
+^
+.src/mid1/exception/ex2/NetWorkServiceV2_5.java,0/5/057386ca6e1dd20d036d03f631cea29dbd1fcc9c
