@@ -2,9 +2,9 @@ package mid1.exception.ex2;
 
 public class NetWorkServiceV2_1 {
 
-    public void sendMessage(String message) throws NetworkClientExceptionV2 {
+    public void sendMessage(String message) throws NetworkClientExceptionV3 {
         String address = "http://example.com";
-        NetWorkClientV2 client = new NetWorkClientV2(address);
+        NetWorkClientV3 client = new NetWorkClientV3(address);
 
         client.initError(message); // 추가
 
