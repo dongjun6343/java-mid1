@@ -1,10 +1,11 @@
 package mid1.exception.ex2;
 
+
 public class NetWorkServiceV2_4 {
 
     public void sendMessage(String message) {
         String address = "http://example.com";
-        NetWorkClientV3 client = new NetWorkClientV3(address);
+        NetWorkClientV2 client = new NetWorkClientV2(address);
 
         client.initError(message); // 추가
 
@@ -12,7 +13,7 @@ public class NetWorkServiceV2_4 {
             // 정상 흐름
             client.connect();
             client.send(message);
-        } catch (NetworkClientExceptionV3 e) {
+        } catch (NetworkClientExceptionV2 e) {
             // 예외 흐름
             System.out.println("[오류] 코드 : " + e.getErrorCode() + " : " + e.getMessage());
         }

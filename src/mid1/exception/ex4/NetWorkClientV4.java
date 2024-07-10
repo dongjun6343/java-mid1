@@ -1,32 +1,34 @@
-package mid1.exception.ex2;
+package mid1.exception.ex4;
 
 
+import mid1.exception.ex4.exception.ConnectExceptionV4;
+import mid1.exception.ex4.exception.SendExceptionV4;
 
-public class NetWorkClientV2 {
+public class NetWorkClientV4 {
 
     private final String address;
     public boolean connectError;
     public boolean sendError;
 
-    public NetWorkClientV2(String address) {
+    public NetWorkClientV4(String address) {
         this.address = address;
     }
 
-    public void connect() throws NetworkClientExceptionV2 {
+    public void connect() throws ConnectExceptionV4 {
         if (connectError) {
-            throw new NetworkClientExceptionV2("connectError", address + " 서버 연결 실패");
+            throw new ConnectExceptionV4(address, address + " 서버 연결 실패");
         }
         System.out.println(address + " 서버 연결 성공!!");
-        // return "success"; 리턴값도 필요없어짐 -> 예외처리가 되지 않았다면 정상처리이므로
     }
 
-    public void send(String message) throws NetworkClientExceptionV2 {
+    public void send(String message) throws SendExceptionV4 {
 
         if (sendError) {
-            throw new NetworkClientExceptionV2("sendError", address + " 서버에 데이터 전송 실패 ");
+            throw new SendExceptionV4(message, address + " 서버에 데이터 전송 실패 " + message);
+
         }
+        // 전송 성공
         System.out.println(address + " 서버에 데이터 전송 : " + message);
-        // return "success";
     }
 
     public void disconnect() {
