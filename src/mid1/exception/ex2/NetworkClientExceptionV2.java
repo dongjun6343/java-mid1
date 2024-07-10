@@ -1,10 +1,10 @@
 package mid1.exception.ex2;
 
-public class NetworkClientExceptionV3 extends Exception{
+public class NetworkClientExceptionV2 extends Exception{
 
     private String errorCode;
 
-    public NetworkClientExceptionV3(String errorCode, String message) {
+    public NetworkClientExceptionV2(String errorCode, String message) {
         super(message);
         this.errorCode = errorCode;
     }

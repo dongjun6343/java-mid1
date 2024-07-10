@@ -1,12 +1,12 @@
 package mid1.exception.ex2;
 
-public class NetWorkClientV3 {
+public class NetWorkClientV2 {
 
     private final String address;
     public boolean connectError;
     public boolean sendError;
 
-    public NetWorkClientV3(String address) {
+    public NetWorkClientV2(String address) {
         this.address = address;
     }
 

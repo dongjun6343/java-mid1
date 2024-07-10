@@ -1,6 +1,6 @@
 package mid1.exception.ex2;
 
-public class NetWorkServiceV3 {
+public class NetWorkServiceV2_5 {
 
     public void sendMessage(String message) {
         String address = "http://example.com";

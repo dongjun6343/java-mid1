@@ -156,3 +156,7 @@ R
 .src/mid1/exception/ex3/NetWorkServiceV3_1.java,e/6/e6e94d1a0634061cab7fc36a835c70f55f37b576
 [
 +src/mid1/exception/ex2/NetWorkClientV3.java,6/b/6b3455b7f69671d5fb1a3270579d760c8d444750
+h
+8src/mid1/exception/ex3/exception/NetWorkServiceV3_2.java,5/7/57831207bfaa843a45a7caed3e58131394d46776
+^
+.src/mid1/exception/ex3/NetWorkServiceV3_2.java,1/0/10db42a8a477ddfdf9edab129eec20fe5f0a30fa
