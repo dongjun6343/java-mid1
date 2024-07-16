@@ -1,4 +1,4 @@
-package mid1.nested;
+package mid1.nested.nested;
 
 /**
  * 정적 중첩 클래스는 사실 다른 클래스를 그냥 중첩해 둔 것 뿐이다.

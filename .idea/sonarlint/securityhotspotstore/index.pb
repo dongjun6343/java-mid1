@@ -214,3 +214,17 @@ V
 &src/mid1/nested/inner/ex2/CarMain.java,8/f/8fec84ee1e8c3ac52cd2cf9beacf159e8006199e
 Q
 !src/mid1/nested/ShdowingMain.java,6/2/62c126126bbe9709044e08712b69850fe6df9174
+W
+'src/mid1/nested/local/LocalOuterV1.java,3/a/3ae66b75229a5f3af95f292d17fbafa9dd84eb5e
+R
+"src/mid1/nested/local/Printer.java,e/c/eca117179d3f572e1f26992fb012850ca19efade
+W
+'src/mid1/nested/local/LocalOuterV2.java,0/2/02d6aaa8ebc72b119583613cfb67612f3fd762f8
+W
+'src/mid1/nested/local/LocalOuterV3.java,8/b/8b72b07c1a2574f2f460d40a5121e9e30b7de3a7
+W
+'src/mid1/nested/local/LocalOuterV4.java,3/2/32869f39376aca27eae424d9e5ec639758fa9963
+[
++src/mid1/nested/nested/NestedOuterMain.java,7/a/7a3767552be2cd9894da3ddcb0892fd6723e08b8
+W
+'src/mid1/nested/nested/NestedOuter.java,b/e/bed1b0cb8738587273c717ca1e7b9e795a078da2

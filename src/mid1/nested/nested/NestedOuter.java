@@ -1,4 +1,4 @@
-package mid1.nested;
+package mid1.nested.nested;
 
 public class NestedOuter {
 
