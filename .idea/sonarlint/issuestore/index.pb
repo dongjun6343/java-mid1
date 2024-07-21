@@ -310,3 +310,5 @@ Y
 )src/mid1/generic/test/ex5/WildCardEx.java,5/3/5390be4779e4ec76196c6226310b05075210658a
 \
 ,src/mid1/generic/test/ex5/WildcardMain1.java,4/b/4baacb8ac166481d0add9bcd6cea1b9f5925a387
+\
+,src/mid1/generic/test/ex5/WildcardMain2.java,b/9/b99dcad482c74cfd45da539e8ef80c56299010a9
