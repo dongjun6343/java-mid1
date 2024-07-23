@@ -354,3 +354,7 @@ X
 (src/mid1/collection/link/NodeMain02.java,0/d/0d5120217b861c1ba23085688bcb28bc195d3b9b
 W
 'src/mid1/collection/link/NodeMain2.java,4/4/44bf3c6f12643aa59d80c5f37f376ee517055010
+\
+,src/mid1/collection/link/MyLinkedListV1.java,4/c/4c4874a22c215f247016dd483b8d640a5f38ec8b
+\
+,src/mid1/collection/link/MyLinkedListV2.java,8/f/8fadbd3de3c465f76c510927b3caa85594426cf3
