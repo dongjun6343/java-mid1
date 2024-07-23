@@ -1,4 +1,4 @@
-package mid1.collection;
+package mid1.collection.array;
 
 import java.util.Arrays;
 
