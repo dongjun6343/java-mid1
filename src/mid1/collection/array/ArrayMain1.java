@@ -5,6 +5,8 @@ import java.util.Arrays;
 public class ArrayMain1 {
 
     /**
+     * 순서가 있고, 중복을 허용하는 자료 구조를 리스트(List)
+     *
      * 배열을 사용한 리스트인 ArrayList는 단점이 있다
      * - 정확한 크기를 알지 못하면 메모리 낭비가 된다.
      * - 데이터를 앞이나 중간에 추가하거나 삭제할때 비효율적이다.
