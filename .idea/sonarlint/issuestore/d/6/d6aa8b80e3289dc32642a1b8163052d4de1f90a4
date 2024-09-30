@@ -1,8 +1,8 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘â øÿÿÿÿ8ĞßÉğ…2J$292b2a39-5d1c-430e-81c8-7b5a3cf1b8d6
-m	java:S106"+Replace this use of System.out by a logger.(Ù€³Œ8åƒºì…2J$bc3529ce-48a2-4c33-85a1-e0ad0f1ffd9c
-m	java:S106"+Replace this use of System.out by a logger.(Ô«êˆ8²¯½ì…2J$06730d57-8722-4260-9bb8-50233237f67a
-m	java:S106"+Replace this use of System.out by a logger.(¨Áù–8³¯½ì…2J$febddfd1-a339-4831-b282-74a2fdebd7d4
-r	java:S106"+Replace this use of System.out by a logger.(ä‡Í³ûÿÿÿÿ8³¯½ì…2J$cdb29286-1c93-4648-8caa-93cc6471c8e8
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘â øÿÿÿÿ8ĞßÉğ…2J$6b722355-fded-46cd-8f43-83e01248725f
+m	java:S106"+Replace this use of System.out by a logger.(Ù€³Œ8åƒºì…2J$a08c0229-9de8-411a-ad59-1dbd11908d52
+m	java:S106"+Replace this use of System.out by a logger.(Ô«êˆ8²¯½ì…2J$4e793f01-b77a-4ce0-b2df-10cfa31f0d96
+m	java:S106"+Replace this use of System.out by a logger.(¨Áù–8³¯½ì…2J$0a4eb688-c4d4-4ed0-97b6-c6e96aad6484
+r	java:S106"+Replace this use of System.out by a logger.(ä‡Í³ûÿÿÿÿ8³¯½ì…2J$8164b69b-d1e0-44d8-b42a-c7108fe970a4
 ˜
-java:S1206%"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8³¯½ì…2J$175e0324-9515-4a52-86d8-9719760291cd
+java:S1206%"PThis class overrides "equals()" and should therefore also override "hashCode()".(İ¢êÍıÿÿÿÿ8³¯½ì…2J$20e9eb3d-647b-4288-950a-3ddc2c802d60
