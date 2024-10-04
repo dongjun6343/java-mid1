@@ -2,7 +2,8 @@ package mid1.thread.sync;
 
 public class BankMain {
     public static void main(String[] args) throws InterruptedException {
-        BankAccount account = new BankAccountV1(1000); // x001
+//        BankAccount account = new BankAccountV1(1000); // x001
+        BankAccount account = new BankAccountV2(1000); // x001
 
 //        Thread t1 = new Thread(new WithdrawTask(x001, 800), "t1");
 //        Thread t2 = new Thread(new WithdrawTask(x001, 800), "t2"); => 두 스레드는 같은 계좌 (x001)에 대해서 출금 시도를 한다.

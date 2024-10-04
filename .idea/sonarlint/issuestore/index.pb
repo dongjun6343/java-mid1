@@ -410,3 +410,5 @@ R
 "src/mid1/thread/sync/BankMain.java,f/e/fe25eed22de10f8c1330465f599c6ab25a106cf7
 V
 &src/mid1/thread/sync/WithdrawTask.java,1/3/13c997b9cbd0f0235e3cc99ddaa0be1fb44d631f
+W
+'src/mid1/thread/sync/BankAccountV2.java,7/d/7da2903e1675e690e4937fa98d095e22aed32286
