@@ -412,3 +412,13 @@ V
 &src/mid1/thread/sync/WithdrawTask.java,1/3/13c997b9cbd0f0235e3cc99ddaa0be1fb44d631f
 W
 'src/mid1/thread/sync/BankAccountV2.java,7/d/7da2903e1675e690e4937fa98d095e22aed32286
+W
+'src/mid1/thread/sync/BankAccountV3.java,c/3/c35d298625035a6a23a3dba8d1c3b1a28ff93f26
+_
+/src/mid1/thread/sync/test/SyncTest1BadMain.java,d/5/d5bc05c3179eddc675a1502bd026e7c97facbc56
+\
+,src/mid1/thread/sync/test/SyncTest1Main.java,a/e/ae57c5f9a40f6d5ecf7c182ebb3be6ae62ed95e2
+\
+,src/mid1/thread/sync/test/SyncTest2Main.java,5/5/5566d79435be595ffdffbde9c111fb82d604e30e
+X
+(src/mid1/thread/sync/test/Immutable.java,c/d/cd9faab5cff0259bf39d2d8e406bd83bd8d9ecd7

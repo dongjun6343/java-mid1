@@ -3,7 +3,8 @@ package mid1.thread.sync;
 public class BankMain {
     public static void main(String[] args) throws InterruptedException {
 //        BankAccount account = new BankAccountV1(1000); // x001
-        BankAccount account = new BankAccountV2(1000); // x001
+//        BankAccount account = new BankAccountV2(1000); // x001
+        BankAccount account = new BankAccountV3(1000); // x001
 
 //        Thread t1 = new Thread(new WithdrawTask(x001, 800), "t1");
 //        Thread t2 = new Thread(new WithdrawTask(x001, 800), "t2"); => 두 스레드는 같은 계좌 (x001)에 대해서 출금 시도를 한다.
@@ -49,6 +50,10 @@ public class BankMain {
          * => 그럼 어떻게 한번에 하나의 스레드만 접근할 수 있도록 임계 영역을 안전하게 보호할 수 있을까?
          *  - synchronized를 사용!
          *
+         *
+         * 하지만, synchronized는 락이 풀릴 때까지 무한 대기한다. (가장 큰 단점!!!)
+         * => 결국 더 유연하고 세밀한 제어가 가능한 방법이 필요하게 되었다.
+         * => 이걸 해결하기 위해 java.util.concurrent라는 동시성 문제 해결을 위한 라이브러리 패키지가 추가되었다.
          */
     }
 }
