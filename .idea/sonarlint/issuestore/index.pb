@@ -422,3 +422,5 @@ _
 ,src/mid1/thread/sync/test/SyncTest2Main.java,5/5/5566d79435be595ffdffbde9c111fb82d604e30e
 X
 (src/mid1/thread/sync/test/Immutable.java,c/d/cd9faab5cff0259bf39d2d8e406bd83bd8d9ecd7
+W
+'src/mid1/thread/sync/BankAccountV4.java,e/f/eff9941dd8c2b0ec48065bb4ac32f3a1c4a6e808
