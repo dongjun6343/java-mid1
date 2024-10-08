@@ -400,8 +400,6 @@ W
 ,src/mid1/collection/list/link/NodeMain1.java,9/6/9610419457084da884eca03ff03038b5b52e3ede
 X
 (src/mid1/collection/CollectionIntro.java,0/9/09ccd54a763a055788aad1f7f2eaffc1252b3db8
-N
-src/mid1/sync/BankAccount.java,f/5/f52966d994dba1146c9b0d07a6e870607661a8ce
 U
 %src/mid1/thread/sync/BankAccount.java,7/0/7096efc8f84effb4410d182d4e4e2f026fd5ae87
 W
@@ -424,3 +422,7 @@ X
 (src/mid1/thread/sync/test/Immutable.java,c/d/cd9faab5cff0259bf39d2d8e406bd83bd8d9ecd7
 W
 'src/mid1/thread/sync/BankAccountV4.java,e/f/eff9941dd8c2b0ec48065bb4ac32f3a1c4a6e808
+W
+'src/mid1/thread/sync/BankAccountV5.java,5/6/5602de108cdf5b0a41b8e76a95ec4cb95ce4002f
+W
+'src/mid1/thread/sync/BankAccountV6.java,e/6/e65c6380fdd2011c0fb8023a40c87fa33bc5645b
