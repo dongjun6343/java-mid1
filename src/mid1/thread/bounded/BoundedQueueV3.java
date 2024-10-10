@@ -8,6 +8,11 @@ import java.util.Queue;
  * V3
  * wait()로 스레드를 대기 상태에 빠지게 한다.
  * notify()로 스레드를 깨운다.
+ *
+ * [문제]
+ * 같은 종류의 스레드를 깨울 때 비효율이 발생한다.
+ * [해결방안]
+ * 생산자가 소비자를 깨우고 소비자가 생산자를 깨운다면 비효율이 없어지지 않을까? - V4
  */
 public class BoundedQueueV3 implements BoundedQueue {
 

@@ -15,7 +15,10 @@ public class BoundedMain {
         // 1. BoundedQueue 선택
 //        BoundedQueue queue = new BoundedQueueV1(2);
 //        BoundedQueue queue = new BoundedQueueV2(2);
-        BoundedQueue queue = new BoundedQueueV3(2);
+//        BoundedQueue queue = new BoundedQueueV3(2);
+//        BoundedQueue queue = new BoundedQueueV4(2);
+        BoundedQueue queue = new BoundedQueueV5(2);
+
 
         // 2. 생산자, 소비자 실행 순서 선택, 반드시 하나만 선택!
         // 생산자 먼저 실행
@@ -39,7 +42,7 @@ public class BoundedMain {
         System.out.println();
         System.out.println("생산자 시작");
             try {
-                for (int i = 0; i < 3; i++) {
+                for (int i = 1; i <= 3; i++) {
                     Thread producer = new Thread(new ProducerTask(queue, "data" + i), "producer" + i);
                     threads.add(producer);
                     producer.start();
