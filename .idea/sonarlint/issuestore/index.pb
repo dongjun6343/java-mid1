@@ -446,3 +446,9 @@ X
 +src/mid1/thread/bounded/BoundedQueueV5.java,a/b/ab40b12d46a5822f5567e59814226ddf2b6f81a2
 ]
 -src/mid1/thread/bounded/BoundedQueueV6_1.java,0/6/06a979fba290a1dff1ab5de287f8ac5f23db4eec
+]
+-src/mid1/thread/bounded/BoundedQueueV6_2.java,d/b/db565781df866513405347ed0534123bd10b57af
+]
+-src/mid1/thread/bounded/BoundedQueueV6_3.java,5/9/5968d946ca79c3082309cf73e6ed4231ffb7ba38
+]
+-src/mid1/thread/bounded/BoundedQueueV6_4.java,3/9/39cacb9e89f73ab2660826e4ec5820b80d147f58
