@@ -452,3 +452,9 @@ X
 -src/mid1/thread/bounded/BoundedQueueV6_3.java,5/9/5968d946ca79c3082309cf73e6ed4231ffb7ba38
 ]
 -src/mid1/thread/bounded/BoundedQueueV6_4.java,3/9/39cacb9e89f73ab2660826e4ec5820b80d147f58
+c
+3src/mid1/thread/cas/increment/IncrementInteger.java,5/7/57ef73aa895d1cf5c8d0453004a1420d699ab726
+_
+/src/mid1/thread/cas/increment/BasicInteger.java,d/b/dba1ff73a23a29e401b279b333096ed3a83b805c
+f
+6src/mid1/thread/cas/increment/IncrementThreadMain.java,8/8/8859976302ebb95db7258aee6a5b8115675d9dff
