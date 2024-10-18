@@ -9,6 +9,8 @@ public class IncrementThreadMain {
 
     public static void main(String[] args) {
         test(new BasicInteger());
+        test(new VolatileInteger());
+        test(new MyAtomicInteger());
     }
 
     private static void test(IncrementInteger incrementInteger) {

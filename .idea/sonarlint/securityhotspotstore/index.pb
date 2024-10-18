@@ -458,3 +458,9 @@ _
 /src/mid1/thread/cas/increment/BasicInteger.java,d/b/dba1ff73a23a29e401b279b333096ed3a83b805c
 f
 6src/mid1/thread/cas/increment/IncrementThreadMain.java,8/8/8859976302ebb95db7258aee6a5b8115675d9dff
+b
+2src/mid1/thread/cas/increment/MyAtomicInteger.java,5/e/5ea58d7380a422dcd21026db6181354452401c8c
+k
+;src/mid1/thread/cas/increment/IncrementPerformanceMain.java,7/7/7740b1b1293051d24744f0c64741ad8530ffbe9b
+b
+2src/mid1/thread/cas/increment/VolatileInteger.java,1/9/1980faf689a7526deb0dfc46e4c4a5fc9c349390
