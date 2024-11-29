@@ -464,3 +464,23 @@ k
 ;src/mid1/thread/cas/increment/IncrementPerformanceMain.java,7/7/7740b1b1293051d24744f0c64741ad8530ffbe9b
 b
 2src/mid1/thread/cas/increment/VolatileInteger.java,1/9/1980faf689a7526deb0dfc46e4c4a5fc9c349390
+N
+src/mid1/file/OldFileMain.java,9/4/9474f6987003030755c5a7bc10d4179117dc7efd
+O
+src/mid1/file/NewFilesMain.java,5/a/5a761e1300d6043724d5f537b28d257a25a9ea91
+N
+src/mid1/file/OldFilePath.java,c/8/c8500208e2e304a59f8992587769b71914e953a7
+O
+src/mid1/file/NewFilesPath.java,f/4/f4214833448bf6bed213a0e33f88743ba2a2a50d
+V
+&src/mid1/file/text/ReadTextFileV1.java,b/4/b4fb0ce5ef1818977d1c3f0e6e20d2d3148015e7
+V
+&src/mid1/file/text/ReadTextFileV2.java,0/0/00e4e1732998ab2ef28702c621d9b14cab86abe5
+V
+&src/mid1/file/copy/CreateCopyFile.java,b/8/b878bcf0e52afb4209dbeb86e56f851feda3ad51
+R
+"src/mid1/file/copy/FileCopyV1.java,6/f/6f6dd1ddc21cb651fd1c26f81e4773811adb3781
+R
+"src/mid1/file/copy/FileCopyV2.java,a/8/a8c31e32120f97db3d4a51b3e05fc2ed4c265a3b
+R
+"src/mid1/file/copy/FileCopyV3.java,d/d/ddae6c46382a8298aa71b90ee0e49590f0185add
